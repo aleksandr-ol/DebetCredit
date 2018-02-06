@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Доходи/Витрати</string>
+    <string name="summ_debet_label">Сума доходів:</string>
+    <string name="summ_credit_label">Сума витрат:</string>
+    <string name="money_summ_label">Всього грошей:</string>
+    <string name="description">Введіть опис</string>
+    <string name="summ_new_hint">Введіть суму</string>
+    <string name="submit_btn_tetx">Додати</string>
+</resources>
